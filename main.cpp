@@ -6,6 +6,7 @@ int main() {
 //    forloop();
 //    num_test();
 //    express();
-    formore();
+//    formore();
+    bigstep();
     return 0;
 }
