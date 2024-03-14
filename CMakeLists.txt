@@ -5,5 +5,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(CPP_Primer_Plus_Chapter_5 main.cpp
         head.h
-        05.01_forloop.cpp
+#        05.01_forloop.cpp
+        05.02_num_test.cpp
 )

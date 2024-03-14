@@ -2,7 +2,8 @@
 #include "head.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    forloop();
+    std::cout << "Hello, CLion!" << std::endl;
+//    forloop();
+    num_test();
     return 0;
 }
