@@ -4,6 +4,8 @@
 int main() {
     std::cout << "Hello, CLion!" << std::endl;
 //    forloop();
-    num_test();
+//    num_test();
+    express();
+
     return 0;
 }
