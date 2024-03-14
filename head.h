@@ -8,5 +8,6 @@
 int forloop();
 int num_test();
 int express();
+int formore();
 
 #endif //CPP_PRIMER_PLUS_CHAPTER_5_HEAD_H

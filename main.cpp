@@ -5,7 +5,7 @@ int main() {
     std::cout << "Hello, CLion!" << std::endl;
 //    forloop();
 //    num_test();
-    express();
-
+//    express();
+    formore();
     return 0;
 }
