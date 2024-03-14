@@ -7,6 +7,8 @@ int main() {
 //    num_test();
 //    express();
 //    formore();
-    bigstep();
+//    bigstep();
+    forstr1();
+
     return 0;
 }
