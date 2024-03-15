@@ -2,7 +2,7 @@
 #include "head.h"
 
 int main() {
-//    setbuf(stdout, 0);
+    setbuf(stdout, nullptr);
     std::cout << "Hello, CLion!" << std::endl;
 //    forloop();
 //    num_test();
@@ -10,6 +10,8 @@ int main() {
 //    formore();
 //    bigstep();
 //    forstr1();
-    plus_one();
+//    plus_one();
+//    block();
+
     return 0;
 }
