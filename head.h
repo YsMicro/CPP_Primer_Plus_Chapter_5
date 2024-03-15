@@ -11,5 +11,6 @@ int express();
 int formore();
 int bigstep();
 int forstr1();
+int plus_one();
 
 #endif //CPP_PRIMER_PLUS_CHAPTER_5_HEAD_H
