@@ -13,5 +13,6 @@ int bigstep();
 int forstr1();
 int plus_one();
 int block();
+int forstr2();
 
 #endif //CPP_PRIMER_PLUS_CHAPTER_5_HEAD_H

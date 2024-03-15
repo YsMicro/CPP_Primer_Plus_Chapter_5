@@ -12,6 +12,7 @@ int main() {
 //    forstr1();
 //    plus_one();
 //    block();
+    forstr2();
 
     return 0;
 }
