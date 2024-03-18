@@ -12,7 +12,13 @@ int main() {
 //    forstr1();
 //    plus_one();
 //    block();
-    forstr2();
-
+//    forstr2();
+//    equal();
+    int i = 0;
+    while (1) {
+        std::cout << i << std::endl;
+        i++;
+    }
     return 0;
+
 }
