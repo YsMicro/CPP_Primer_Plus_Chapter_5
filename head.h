@@ -15,5 +15,6 @@ int plus_one();
 int block();
 int forstr2();
 int equal();
+int compstr1();
 
 #endif //CPP_PRIMER_PLUS_CHAPTER_5_HEAD_H
