@@ -17,5 +17,6 @@ add_executable(CPP_Primer_Plus_Chapter_5 main.cpp
 #        05.09_forstr2.cpp
 #        05.10_equal.cpp
 #        05.11_compstr1.cpp
-        05.12_compstr2.cpp
+#        05.12_compstr2.cpp
+        05.13_while.cpp
 )

@@ -15,6 +15,7 @@ int main() {
 //    forstr2();
 //    equal();
 //    compstr1();
-    compstr2();
+//    compstr2();
+    while_main();
     return 0;
 }
