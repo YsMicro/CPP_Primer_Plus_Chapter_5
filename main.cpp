@@ -14,6 +14,7 @@ int main() {
 //    block();
 //    forstr2();
 //    equal();
-    compstr1();
+//    compstr1();
+    compstr2();
     return 0;
 }
