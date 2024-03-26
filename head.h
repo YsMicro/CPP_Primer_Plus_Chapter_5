@@ -19,5 +19,7 @@ int compstr1();
 int compstr2();
 int while_main();
 int waiting();
+int dowhile();
+int textin1();
 
 #endif //CPP_PRIMER_PLUS_CHAPTER_5_HEAD_H

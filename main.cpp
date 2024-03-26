@@ -17,6 +17,8 @@ int main() {
 //    compstr1();
 //    compstr2();
 //    while_main();
-    waiting();
+//    waiting();
+//    dowhile();
+    textin1();
     return 0;
 }
