@@ -16,6 +16,7 @@ int main() {
 //    equal();
 //    compstr1();
 //    compstr2();
-    while_main();
+//    while_main();
+    waiting();
     return 0;
 }

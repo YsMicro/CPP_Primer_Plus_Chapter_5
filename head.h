@@ -18,5 +18,6 @@ int equal();
 int compstr1();
 int compstr2();
 int while_main();
+int waiting();
 
 #endif //CPP_PRIMER_PLUS_CHAPTER_5_HEAD_H
