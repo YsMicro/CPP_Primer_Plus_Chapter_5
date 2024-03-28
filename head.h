@@ -21,5 +21,6 @@ int while_main();
 int waiting();
 int dowhile();
 int textin1();
+int textin2();
 
 #endif //CPP_PRIMER_PLUS_CHAPTER_5_HEAD_H

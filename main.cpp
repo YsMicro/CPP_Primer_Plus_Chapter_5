@@ -19,6 +19,7 @@ int main() {
 //    while_main();
 //    waiting();
 //    dowhile();
-    textin1();
+//    textin1();
+    textin2();
     return 0;
 }
