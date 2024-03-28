@@ -21,6 +21,7 @@ int main() {
 //    dowhile();
 //    textin1();
 //    textin2();
-    textin3();
+//    textin3();
+    textin4();
     return 0;
 }
