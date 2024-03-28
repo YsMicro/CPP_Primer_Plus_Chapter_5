@@ -22,5 +22,6 @@ add_executable(CPP_Primer_Plus_Chapter_5 main.cpp
 #        05.14_waiting.cpp
 #        05.15_dowhile.cpp
 #        05.16_textin1.cpp
-        05.17_textin2.cpp
+#        05.17_textin2.cpp
+        05.18_textin3.cpp
 )

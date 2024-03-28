@@ -20,6 +20,7 @@ int main() {
 //    waiting();
 //    dowhile();
 //    textin1();
-    textin2();
+//    textin2();
+    textin3();
     return 0;
 }
