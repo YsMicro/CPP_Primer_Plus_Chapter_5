@@ -24,7 +24,7 @@ int main() {
 //    textin2();
 //    textin3();
 //    textin4();
-//    nested();
+    nested();
 
 /*
 //test6
@@ -37,7 +37,7 @@ int main() {
     int y;
     y = 1,024;
 */
-    _05_01();
+//    O5_01();
 
     return 0;
 }

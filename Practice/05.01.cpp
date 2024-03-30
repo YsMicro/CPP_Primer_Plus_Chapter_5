@@ -1,10 +1,9 @@
 //
 // Created by Vojago on 2024/3/30.
 //
-#include "..\head.h."
 #include <iostream>
-int _05_01()
-{
+
+int O5_01() {
     using namespace std;
     cout << "输入一个整数：";
     int a;

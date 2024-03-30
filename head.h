@@ -25,6 +25,6 @@ int textin2();
 int textin3();
 int textin4();
 int nested();
-int _05_01();
+int O5_01();
 
 #endif //CPP_PRIMER_PLUS_CHAPTER_5_HEAD_H
