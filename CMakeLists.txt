@@ -24,6 +24,7 @@ add_executable(CPP_Primer_Plus_Chapter_5 main.cpp
 #        05.17_textin2.cpp
 #        05.18_textin3.cpp
 #        05.19_textin4.cpp
-        05.20_nested.cpp
-        Practice/05.01.cpp
+#        05.20_nested.cpp
+#        Practice/05.01.cpp
+        Practice/05.02.cpp
 )
