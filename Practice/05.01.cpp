@@ -12,10 +12,25 @@ int _05_01()
     cout << "再输入一个整数：";
     int b;
     cin >> b;
-    int result = 0;
-    for (int i = a; i <= b ; ++i) {
-        result += i;
+
+    if (a > b){
+        int temp;
+        temp = a;
+        a = b;
+        b = temp;
     }
+
+    int result = 0;
+    if (a == b){
+        result = a + b;
+    } else{
+        int i = a;
+        do {
+            result += i;
+            i++;
+        } while (i <= b);
+    }
+
     cout << a << " 和 " << b << " 之间所有整数的和为 " << result;
     return 0;
 }
