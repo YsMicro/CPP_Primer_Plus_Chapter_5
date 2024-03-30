@@ -15,7 +15,7 @@ int O5_03()
         cout << "输入一个数字(输入 0 以退出)：";
         cin >> i;
         result += i;
-        cout << result << endl;
+        cout << "所有输入的累计和为：" << result << endl;
     } while (i != 0);
     return 0;
 }
