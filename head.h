@@ -28,4 +28,5 @@ int nested();
 int O5_01();
 int O5_02();
 int O5_03();
+int O5_04();
 #endif //CPP_PRIMER_PLUS_CHAPTER_5_HEAD_H
