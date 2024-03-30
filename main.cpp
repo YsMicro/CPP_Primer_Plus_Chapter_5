@@ -4,6 +4,7 @@
 int main() {
     setbuf(stdout, nullptr);
     std::cout << "Hello, CLion!" << std::endl;
+    using namespace std;
 //    forloop();
 //    num_test();
 //    express();
@@ -23,6 +24,20 @@ int main() {
 //    textin2();
 //    textin3();
 //    textin4();
-    nested();
+//    nested();
+
+/*
+//    test6
+    for (int i = 1; i < 65 ; i *= 2) {
+        cout << i << endl;
+    }
+*/
+/*
+
+    int y;
+    y = 1,024;
+*/
+
+
     return 0;
 }
