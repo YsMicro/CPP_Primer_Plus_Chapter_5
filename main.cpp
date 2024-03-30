@@ -27,17 +27,17 @@ int main() {
 //    nested();
 
 /*
-//    test6
+//test6
     for (int i = 1; i < 65 ; i *= 2) {
         cout << i << endl;
     }
 */
 /*
-
+//test8
     int y;
     y = 1,024;
 */
-
+    _05_01();
 
     return 0;
 }
