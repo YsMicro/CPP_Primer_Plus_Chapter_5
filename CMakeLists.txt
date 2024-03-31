@@ -28,5 +28,6 @@ add_executable(CPP_Primer_Plus_Chapter_5 main.cpp
 #        Practice/05.01.cpp
 #        Practice/05.02.cpp
 #        Practice/05.03.cpp
-        Practice/05.04.cpp
+#        Practice/05.04.cpp
+        Practice/05.05.cpp
 )
