@@ -5,30 +5,32 @@
 #ifndef CPP_PRIMER_PLUS_CHAPTER_5_HEAD_H
 #define CPP_PRIMER_PLUS_CHAPTER_5_HEAD_H
 
-int forloop();
-int num_test();
-int express();
-int formore();
-int bigstep();
-int forstr1();
-int plus_one();
-int block();
-int forstr2();
-int equal();
-int compstr1();
-int compstr2();
-int while_main();
-int waiting();
-int dowhile();
-int textin1();
-int textin2();
-int textin3();
-int textin4();
-int nested();
-int O5_01();
-int O5_02();
-int O5_03();
-int O5_04();
-int O5_05();
-int O5_06();
+[[maybe_unused]] int forloop();
+[[maybe_unused]] int num_test();
+[[maybe_unused]] int express();
+[[maybe_unused]] int formore();
+[[maybe_unused]] int bigstep();
+[[maybe_unused]] int forstr1();
+[[maybe_unused]] int plus_one();
+[[maybe_unused]] int block();
+[[maybe_unused]] int forstr2();
+[[maybe_unused]] int equal();
+[[maybe_unused]] int compstr1();
+[[maybe_unused]] int compstr2();
+[[maybe_unused]] int while_main();
+[[maybe_unused]] int waiting();
+[[maybe_unused]] int dowhile();
+[[maybe_unused]] int textin1();
+[[maybe_unused]] int textin2();
+[[maybe_unused]] int textin3();
+[[maybe_unused]] int textin4();
+[[maybe_unused]] int nested();
+[[maybe_unused]] int O5_01();
+[[maybe_unused]] int O5_02();
+[[maybe_unused]] int O5_03();
+[[maybe_unused]] int O5_04();
+[[maybe_unused]] int O5_05();
+[[maybe_unused]] int O5_06();
+[[maybe_unused]] int O5_07();
+
 #endif //CPP_PRIMER_PLUS_CHAPTER_5_HEAD_H
